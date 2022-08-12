@@ -1,5 +1,9 @@
 # JPMC_Virtual_Internship
 
+This repository contains the submitted files of the various tasks assigned by JPMorgan Chase & Co. Global Finance and Business Management Virtual Internship.
+
+Tools: `Excel`, `Tableau`
+
 **JPMorgan Chase & Co. Global Finance and Business Management Virtual Experience Program @ Forage**
 
 Personal solution for task 1 and task 2
